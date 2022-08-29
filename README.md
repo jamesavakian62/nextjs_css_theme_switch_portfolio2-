@@ -4,6 +4,9 @@
 Next.JS with Theme Switcher on Vercel
 Deployed [(https://nextjs-css-theme-switch-portfolio2-6xa6cn0j2-jamesavakian62.vercel.app)]
 
+
+![Screen Shot 2022-08-28 at 9 04 21 PM](https://user-images.githubusercontent.com/92414210/187121326-bf5cca12-074a-427a-ad3e-44e479ad2d1e.png)
+
 A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.
 
 ![vscode-portfolio banner](https://imgur.com/JXJ9mpO.gif)
