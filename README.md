@@ -1,7 +1,7 @@
 # vscode-portfolio
-[![Open is Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/itsnitinr/vscode-portfolio)
 
 Next.JS with Theme Switcher on Vercel
+
 Deployed [(https://nextjs-css-theme-switch-portfolio2-6xa6cn0j2-jamesavakian62.vercel.app)]
 
 
